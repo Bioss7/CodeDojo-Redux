@@ -1,5 +1,4 @@
 import React from 'react';
-import { ReactDOM } from 'react';
 import Counter from './Counter';
 import CounterCreateStore from './CounterCreateStore';
 import CounterActionCreators from './CounterActionCreators';
